@@ -1,0 +1,22 @@
+{
+  "_help": "Edit the dates below (24-hour time, Indian Standard Time). Set confirmed to true once the official date is out. Right-click the widget and pick 'Reload dates' after saving.",
+  "exams": [
+    {
+      "name": "JEE Main (Session 1)",
+      "date": "2027-01-20 09:00",
+      "confirmed": false
+    },
+    {
+      "name": "CBSE Class 12 Boards",
+      "date": "2027-02-16 10:30",
+      "confirmed": false
+    },
+    {
+      "name": "JEE Advanced",
+      "date": "2027-05-16 09:00",
+      "confirmed": false
+    }
+  ],
+  "opacity": 0.92,
+  "always_on_top": false
+}
